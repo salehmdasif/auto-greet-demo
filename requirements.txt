@@ -1,0 +1,8 @@
+flask
+gradio
+pandas
+matplotlib
+seaborn
+openai
+fpdf
+python-dotenv
